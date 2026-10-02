@@ -180,7 +180,7 @@ body {
     width: 120px;
     height: 150px;
     background-size: 16px 16px;
-    z-index: 1; /* Точки уходят ПОД карточку */
+    z-index: 1; 
 }
 
 
